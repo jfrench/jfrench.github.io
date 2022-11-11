@@ -1,0 +1,44 @@
+---
+title: "Teaching"
+---
+
+## OER Materials
+
+I am currently writing *A Progressive Introduction to Linear Models*, an OER textbook related to linear regression. The current state of the manuscript can be viewed at [https://jfrench.github.io/LinearRegression](https://jfrench.github.io/LinearRegression)
+
+Materials for Data Wrangling and Visualization in R are available at [https://github.com/jfrench/dwv/](https://github.com/jfrench/dwv/). YouTube playlists discussing the material are provided below:
+
+- [A Crash Course in R](https://youtube.com/playlist?list=PLkrJrLs7xfbUNe79bzEetcE0g-vHZT8XR)
+- [A Crash Course in R Markdown](https://youtube.com/playlist?list=PLkrJrLs7xfbXJ0F9yc-n8PzvoFv4qmM-N)
+- [Basic Data Viz with ggplot2](https://youtube.com/playlist?list=PLkrJrLs7xfbVbI1WHs8FfkOoFvtiI6EXd)
+- [Date Frame Manipulation with dplyr and tidyr](https://youtube.com/playlist?list=PLkrJrLs7xfbXaM7ukwxGu6xie3X64XVH3)
+- [Simple Features (sf) Wrangling and Visualization](https://youtube.com/playlist?list=PLkrJrLs7xfbWjD2rp3pIV85lby-tR3Cnu)
+- [Interactive Graphics](https://youtube.com/playlist?list=PLkrJrLs7xfbW0Oiu9cXHHVbsUn-R7-BmJ)
+
+In general, I record videos related to my courses and post them at my YouTube channel: [https://youtube.com/@jfrench](https://youtube.com/@jfrench)
+
+## Courses Taught
+
+### University of Colorado Denver
+
+- MATH 2830: Introductory Statistics
+- MATH 3376: Data Wrangling & Visualization
+- MATH 4027/5027: Topics in Mathematics (Applied Spatial Statistics)
+- MATH 4820/5320: Introduction to Mathematical Statistics
+- MATH 4830/5830: Applied Statistics
+- MATH 4387/5387: Applied Regression Analysis
+- MATH 6393: Introduction to Bayesian Statistics
+- MATH 6384: Analysis of Dependent Data
+- MATH 7393: Bayesian Statistics
+- MATH 7826: Topics in Probability and Statistics (Theoretical Statistics)
+
+### Colorado State University
+
+- STAT 101: Activity Based Statistics
+- STAT 110: Statistical Thinking: Concepts and Applications
+- STAT 201: General Statistics (Recitation)
+- STAT 301: Introduction to Statistical Methods
+- STAT/ERHS 307: Introduction to Biostatistics
+- STAT 340: Multiple Regression Analysis
+- STAT 650: Design and Linear Modeling II (Distance Coordinator) 
+
