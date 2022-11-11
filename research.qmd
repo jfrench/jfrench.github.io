@@ -1,0 +1,49 @@
+---
+title: "Research"
+---
+
+## Interests
+  
+Spatial statistics, exceedance set indentification, extreme value theory, environmental and ecological applications, public health.
+
+## Publications
+
+**French, Joshua P.**, Hall, Lauren M., Meysami, Mohammad, Weaver, Nicholas, Nguyen, Minh; Panter, Lee. (2022) A comparison of spatial scan methods for cluster detection. *Journal of Statistical Computation and Simulation*. 92(16):3343--3372. [https://doi.org/10.1080/00949655.2022.2065676](https://doi.org/10.1080/00949655.2022.2065676).
+
+Lipner, Ettie M., **French, Joshua P.**, Nelson, Stephen Nelson, Falkinham III, Joseph O., Mercalco, Rachel A., Blakney, Rebekah A., Daida, Yihe G., Frankland, Timothy B., Messier, Kyle P., Honda, Jennifer R., Honda, Stacey Honda, Prevots, D. Rebecca. (2022) Vanadium in Groundwater Aquifers Increases the Risk of MAC Infection in Hawaii. *Journal of Exposure Science And Environmental Epidemiology*. 6(5):e220. [https://doi.org/10.1097/EE9.0000000000000220](https://doi.org/10.1097/EE9.0000000000000220).
+
+Lipner, Ettie M., **French, Joshua P.**, Falkinham III, Joseph O., Crooks, James L., Mercaldo, Rachel A., Henkle, Emily, Prevots, D Rebecca. (2022) NTM Infection Risk and Trace Metals in Surface Water: A Population-Based Ecologic Epidemiologic Study in Oregon. *Annals of the American Thoracic Society*. 19(4):543--550. [https://doi.org/10.1513/AnnalsATS.202101-053OC](https://doi.org/10.1513/AnnalsATS.202101-053OC).
+
+Lipner, Ettie M., Crooks, James L., **French, Joshua**, Strong, Michael, Nick, Jerry A., and Provots, D. Rebecca Prevots (2022) Nontuberculous Mycobacterial Infection and Environmental Molybdenum in Persons with Cystic Fibrosis: A Case-Control Study in Colorado. *Journal of Exposure Science and Environmental Epidemiology*. 32:289---294 [https://doi.org/10.1038/s41370-021-00360-2](https://doi.org/10.1038/s41370-021-00360-2).
+
+Meysami, Mohammad, **French, Joshua P.**, and Lipner, Ettie M. (2021) Estimating the optimal population upper bound for scan methods in retrospective disease surveillance. \\textit{Biometrical Journal}:1--19. [https://onlinelibrary.wiley.com/doi/10.1002/bimj.202000273](https://onlinelibrary.wiley.com/doi/10.1002/bimj.202000273).
+
+Im, U., Tsigaridis, K., Faluvegi, G., Langen, P. L., **French, J.P.**, Mahmood, R., Manu, T., von Salzen, K., Thomas, D. C., Whaley, C. H., Klimont, Z., Skov, H., and Brandt, J. (2021) Present and future aerosol impacts on Arctic climate change in the GISS-E2.1 Earth system model, *Atmospheric Chemistry and Physics* 21:10413--10438. [https://doi.org/10.5194/acp-2020-1296](https://doi.org/10.5194/acp-2020-1296).
+
+**French, Joshua P.**, Kokoszka, Piotr S. (2021) A sandwich smoother for spatio-temporal functional data, *Spatial Statistics*. 42:100413. [https://doi.org/10.1016/j.spasta.2020.100413](https://doi.org/10.1016/j.spasta.2020.100413).
+
+Lipner, E.M., **French, J.**, Bern, C.R., Walton-Day, K., Knox, D., Strong, M., Prevots, D.R., Crooks, J.L. (2020) Nontuberculous mycobacterial disease and molybdenum in Colorado watersheds. \\textit{International Journal of Environmental Resources and Public Health}. 17(11):3854. [https://doi.org/10.3390/ijerph17113854](https://doi.org/10.3390/ijerph17113854).
+
+Hall, Lauren M., **French, Joshua P.**. (2019) A modified CUSUM test to control post-outbreak false alarms. *Statistics in Medicine*. 38(11):2047--2058. [https://doi.org/10.1002/sim.8088](https://doi.org/10.1002/sim.8088).
+
+**French, J.**, Kokoszka, P., Stoev, S., Hall, L. (2019) Quantifying the risk of extreme heat waves over North America using climate model forecasts. *Computational Statistics and Data Analysis*. 131:176--193. [https://doi.org/10.1016/j.csda.2018.07.004](https://doi.org/10.1016/j.csda.2018.07.004).
+
+Pansing, E.R., Tomback, D.F., Wunder, M.B., **French, J.P.**, and Wagner, A.C. (2017) Microsite and elevation zone effects on seed pilferage, germination, and seedling survival during early whitebark pine recruitment. *Ecology and Evolution*. 7(21):9027--9040. [https://doi.org/10.1002/ece3.3421](https://doi.org/10.1002/ece3.3421).
+
+Lipner, E.M., Knox, D., **French, J.**, Rudman, J., Strong, M., and Crooks, J.L. (2017) A Geospatial Epidemiologic Analysis of Nontuberculous Mycobacterial Infection: An Ecological Study in Colorado. *Annals of the American Thoracic Society*. 14(10):1523--1532. \\url{https://doi.org/10.1513/AnnalsATS.201701-081OC}.
+
+**French, J.P.**, McGinnis, S., and Schwartzman, A. (2017) Assessing NARCCAP climate model effects using spatial confidence regions. *Advances in Statistical Climatology, Meteorology and Oceanography*. 3(2):67--92. [https://doi.org/10.5194/ascmo-3-67-2017](https://doi.org/10.5194/ascmo-3-67-2017).
+
+**French, J.P.** (2017) autoimage: Multiple Heat Maps for Projected Coordinates. *The R Journal*. 9(1):284--297. [https://journal.r-project.org/archive/2017/RJ-2017-025/index.html](https://journal.r-project.org/archive/2017/RJ-2017-025/index.html).
+
+Dassanayaka, S. and **French, J.P.** (2016) An improved CUSUM-based procedure for prospective disease surveillance for count data in multiple regions. {\\it Statistics in Medicine}. 35(15):2593--2608. [https://doi.org/10.1002/sim.6887](https://doi.org/10.1002/sim.6887).
+
+**French, Joshua P.**, and Hoeting, Jennifer A. (2016) Credible Regions for Exceedance Sets of Geostatistical Data. *Environmetrics*. 27(1):4--14. [https://doi.org/10.1002/env.2371](https://doi.org/10.1002/env.2371).
+
+**French, Joshua P.** (2014). Confidence Regions for the Level Curves of Spatial Data. *Environmetrics*. 25(7):498--512. [https://doi.org/10.1002/env.2295](https://doi.org/10.1002/env.2295).
+
+**French, Joshua P.** and Sain, Stephan R. (2013). Spatio-Temporal Exceedance Locations and Confidence Regions. *Annals of Applied Statistics*. 7(3):1421--1449. [https://doi.org/10.1214/13-AOAS631](https://doi.org/10.1214/13-AOAS631).
+
+**French, Joshua P.** and Davis, Richard A. (2013). The asymptotic distribution of the maxima of a Gaussian random field on a lattice. *Extremes*. 16(1):1--26. [https://doi.org/10.1007/s10687-012-0149-y](https://doi.org/10.1007/s10687-012-0149-y).
+
+Pingry O'Neill, L.N., Markward, M.J., and **French, J.P.** (2012). Predictors of Graduation among College Students with Disabilities. *Journal of Postsecondary Education and Disability*. 25(1):21--36. [https://eric.ed.gov/?id=EJ970017](https://eric.ed.gov/?id=EJ970017).

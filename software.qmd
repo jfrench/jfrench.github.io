@@ -1,0 +1,19 @@
+---
+title: "Software"
+---
+
+## Repository
+
+View my software on GitHub at [https://github.com/jfrench](https://github.com/jfrench).
+
+## R packages
+
+- [**SpatialTools**](https://cran.r-project.org/package=SpatialTools):  Tools for spatial data analysis. Emphasis on kriging. Provides functions for prediction and simulation. Intended to be relatively straightforward, fast, and flexible.
+- [**ExceedanceTools**](https://cran.r-project.org/package=ExceedanceTools):  Provides methods for constructing confidence or credible regions for exceedance sets and contour lines.
+- [**smacpod**](https://cran.r-project.org/package=smacpod):  Statistical methods for analyzing case-control point data. Methods include the ratio of kernel densities, the difference in K Functions, the spatial scan statistic, and q nearest neighbors of cases.
+- [**smerc**](https://cran.r-project.org/package=smerc): Implements statistical methods for analyzing the counts of areal data, with a focus on the detection of spatial clusters and clustering. The package has a heavy emphasis on spatial scan methods.
+- [**gear**](https://cran.r-project.org/package=gear): Implements common geostatistical methods in a clean, straightforward, efficient manner.
+- [**autoimage**](https://cran.r-project.org/package=autoimage): Functions for displaying multiple images or scatterplots with a color scale, i.e., heat maps, possibly with projected coordinates. The package relies on the base graphics system, so graphics are rendered rapidly.
+- [**cope**](https://cran.r-project.org/package=cope): Provides functions to compute and plot Coverage Probability Excursion (CoPE) sets for real valued functions on a 2-dimensional domain. CoPE sets are obtained from repeated noisy observations of the function on the entire domain. They are designed to bound the excursion set of the target function at a given level from above and below with a predefined probability. The target function can be a parameter in spatially-indexed linear regression. Support by NIH grant R01 CA157528 is gratefully acknowledged. 
+- [**api2lm**](https://cran.r-project.org/package=api2lm): Simplifies aspects of linear regression analysis, particularly simultaneous inference. Additionally, supports "A Progressive Introduction to Linear Models" by Joshua French [https://jfrench.github.io/LinearRegression/](https://jfrench.github.io/LinearRegression/).
+
