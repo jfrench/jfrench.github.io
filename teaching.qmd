@@ -28,7 +28,7 @@ In general, I record videos related to my courses and post them at my YouTube ch
 - MATH 4830/5830: Applied Statistics
 - MATH 4387/5387: Applied Regression Analysis
 - MATH 6393: Introduction to Bayesian Statistics
-- MATH 6384: Analysis of Dependent Data
+- MATH 6384: Spatial Data Analysis
 - MATH 7393: Bayesian Statistics
 - MATH 7826: Topics in Probability and Statistics (Theoretical Statistics)
 
