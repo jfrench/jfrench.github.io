@@ -1,21 +1,32 @@
 ---
 title: "Joshua P. French"
 image: jfrench.jpg
+resources: cv_jfrench.pdf
 about: 
+  id: jfrench-heading
   template: jolla
   image-shape: rounded
   image-width: 15em
   links:
     - text: Email
+      icon: envelope
       href: mailto:joshua.french@ucdenver.edu
     - text: GitHub
+      icon: github
       href: https://github.com/jfrench
     - text: YouTube
+      icon: youtube
       href: https://youtube.com/@jfrench
-    - text: Google Scholar
+    - text: Scholar
+      icon: google
       href: https://scholar.google.com/citations?user=_2FHxoMAAAAJ&hl=en
     - text: CV
+      icon: file-text
       href: cv_jfrench.pdf
 ---
 
+:::{#jfrench-heading}
+
 I am a statistician and data scientist. I am currently an Associate Professor in the Department of Mathematical and Statistical Sciences at the University of Colorado Denver. I am passionate about using statistics and data science to learn from data, developing software to help others learn from data, and training others to do data analysis.
+
+:::
