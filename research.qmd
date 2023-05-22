@@ -8,6 +8,20 @@ Spatial statistics, exceedance set indentification, extreme value theory, enviro
 
 ## Publications
 
+Rachel A. Mercaldo, Julia E. Marshall, Gerard A. Cangelosi, Maura Donohue, Joseph O.
+Falkinham, Noah Fierer, **Joshua P. French**, Matthew J. Gebert, Jennifer R. Honda, Ettie M.
+Lipner, Theodore K. Marras, Kozo Morimoto, Max Salfinger, Janet Stout, Rachel Thomson,
+D. Rebecca Prevots. (2023). Environmental risk of nontuberculous mycobacterial infection:
+Strategies for advancing methodology. Tuberculosis. 139:102305. [https://doi.org/10.
+1016/j.tube.2023.102305](https://doi.org/10.
+1016/j.tube.2023.102305).
+
+Rachel A. Mercaldo; Julia E. Marshall; D. Rebecca Prevots; Ettie M. Lipner; **Joshua P.
+French**. (2023) Detecting clusters of high nontuberculous mycobacteria infection risk for
+persons with cystic fibrosis – An analysis of U.S. counties. Tuberculosis. 138:102296. [https:
+//doi.org/10.1016/j.tube.2022.102296](https:
+//doi.org/10.1016/j.tube.2022.102296).
+
 **French, Joshua P.**, Hall, Lauren M., Meysami, Mohammad, Weaver, Nicholas, Nguyen, Minh; Panter, Lee. (2022) A comparison of spatial scan methods for cluster detection. *Journal of Statistical Computation and Simulation*. 92(16):3343--3372. [https://doi.org/10.1080/00949655.2022.2065676](https://doi.org/10.1080/00949655.2022.2065676).
 
 Lipner, Ettie M., **French, Joshua P.**, Nelson, Stephen Nelson, Falkinham III, Joseph O., Mercalco, Rachel A., Blakney, Rebekah A., Daida, Yihe G., Frankland, Timothy B., Messier, Kyle P., Honda, Jennifer R., Honda, Stacey Honda, Prevots, D. Rebecca. (2022) Vanadium in Groundwater Aquifers Increases the Risk of MAC Infection in Hawaii. *Journal of Exposure Science And Environmental Epidemiology*. 6(5):e220. [https://doi.org/10.1097/EE9.0000000000000220](https://doi.org/10.1097/EE9.0000000000000220).
