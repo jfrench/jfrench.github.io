@@ -8,6 +8,12 @@ Spatial statistics, exceedance set indentification, extreme value theory, enviro
 
 ## Publications
 
+Dassanayake, Sesha; **French, Joshua P.** Detecting Disease Outbreak Regions Using Multiple Data Streams. Statistics in Biosciences (2023). [https://doi.org/10.1007/s12561-023-09387-5](https://doi.org/10.1007/s12561-023-09387-5).
+
+\item Lipner, Ettie M.; **French, Joshua P.**; Mercaldo, Rachel A.; Nelson, Stephen; Zelazny, Adrian M.; Marshall, Julia E.; Strong, Michael; Falkinham, Joseph O. III; Prevots, D. Rebecca. The risk of pulmonary NTM infections and water-quality constituents among persons with cystic fibrosis in the United States, 2010–2019. Environmental Epidemiology 7(5):p e266, October 2023. [https://doi.org/10.1097/EE9.0000000000000266](https://doi.org/10.1097/EE9.0000000000000266).
+
+\item Meysami, Mohammad.; **French, Joshua P.**; Lipner, Ettie M. (2023) Flexible-Elliptical Spatial Scan Method. \textit{Mathematics}. 11:3627. [https://doi.org/10.3390/math11173627](https://doi.org/10.3390/math11173627).
+
 Rachel A. Mercaldo, Julia E. Marshall, Gerard A. Cangelosi, Maura Donohue, Joseph O.
 Falkinham, Noah Fierer, **Joshua P. French**, Matthew J. Gebert, Jennifer R. Honda, Ettie M.
 Lipner, Theodore K. Marras, Kozo Morimoto, Max Salfinger, Janet Stout, Rachel Thomson,
