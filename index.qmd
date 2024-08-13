@@ -29,6 +29,6 @@ about:
 
 I am a statistician and data scientist. I am currently the Director of Data Science at the University of Colorado Denver and an Associate Professor in the Department of Mathematical and Statistical Sciences.
 
-I am passionate about using statistics and data science to learn from data, developing software to help others learn from data, and training others to do data analysis.
+I am passionate about using statistics and data science to learn from data, developing software to help others learn from data, and training others to do data analysis. My research uses geographically-referenced data to draw conclusions about ecological anomalies, climate extremes, and disease outbreak. 
 
 :::

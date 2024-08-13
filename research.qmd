@@ -4,29 +4,27 @@ title: "Research"
 
 ## Interests
   
-Spatial statistics, exceedance set indentification, extreme value theory, environmental and ecological applications, public health.
+Spatial statistics, exceedance set identification, extreme value theory, environmental and ecological applications, public health.
 
 ## Publications
 
-Dassanayake, Sesha; **French, Joshua P.** Detecting Disease Outbreak Regions Using Multiple Data Streams. Statistics in Biosciences (2023). [https://doi.org/10.1007/s12561-023-09387-5](https://doi.org/10.1007/s12561-023-09387-5).
+**French, Joshua P**, Meysami M, Lipner EM. Prefiltered component-based greedy (PreCoG) scan method. Statistics in Medicine. 1--18. [https://doi.org/10.1002/sim.10170](https://doi.org/10.1002/sim.10170).
 
-\item Lipner, Ettie M.; **French, Joshua P.**; Mercaldo, Rachel A.; Nelson, Stephen; Zelazny, Adrian M.; Marshall, Julia E.; Strong, Michael; Falkinham, Joseph O. III; Prevots, D. Rebecca. The risk of pulmonary NTM infections and water-quality constituents among persons with cystic fibrosis in the United States, 2010–2019. Environmental Epidemiology 7(5):p e266, October 2023. [https://doi.org/10.1097/EE9.0000000000000266](https://doi.org/10.1097/EE9.0000000000000266).
+Dassanayake, Sesha, **French, Joshua P.** (2024). Detecting Disease Outbreak Regions Using Multiple Data Streams. Statistics in Biosciences. 16: 142–-164. [https://doi.org/10.1007/s12561-023-09387-5](https://doi.org/10.1007/s12561-023-09387-5).
 
-\item Meysami, Mohammad.; **French, Joshua P.**; Lipner, Ettie M. (2023) Flexible-Elliptical Spatial Scan Method. \textit{Mathematics}. 11:3627. [https://doi.org/10.3390/math11173627](https://doi.org/10.3390/math11173627).
+Lipner, Ettie M.; **French, Joshua P.**; Mercaldo, Rachel A.; Nelson, Stephen; Zelazny, Adrian M.; Marshall, Julia E.; Strong, Michael; Falkinham, Joseph O. III; Prevots, D. Rebecca. The risk of pulmonary NTM infections and water-quality constituents among persons with cystic fibrosis in the United States, 2010–2019. (2023) Environmental Epidemiology 7(5):p e266. [https://doi.org/10.1097/EE9.0000000000000266](https://doi.org/10.1097/EE9.0000000000000266).
+
+Meysami, Mohammad.; **French, Joshua P.**; Lipner, Ettie M. (2023) Flexible-Elliptical Spatial Scan Method. \textit{Mathematics}. 11:3627. [https://doi.org/10.3390/math11173627](https://doi.org/10.3390/math11173627).
 
 Rachel A. Mercaldo, Julia E. Marshall, Gerard A. Cangelosi, Maura Donohue, Joseph O.
 Falkinham, Noah Fierer, **Joshua P. French**, Matthew J. Gebert, Jennifer R. Honda, Ettie M.
 Lipner, Theodore K. Marras, Kozo Morimoto, Max Salfinger, Janet Stout, Rachel Thomson,
 D. Rebecca Prevots. (2023). Environmental risk of nontuberculous mycobacterial infection:
-Strategies for advancing methodology. Tuberculosis. 139:102305. [https://doi.org/10.
-1016/j.tube.2023.102305](https://doi.org/10.
-1016/j.tube.2023.102305).
+Strategies for advancing methodology. Tuberculosis. 139:102305. [https://doi.org/10.1016/j.tube.2023.102305](https://doi.org/10.1016/j.tube.2023.102305).
 
 Rachel A. Mercaldo; Julia E. Marshall; D. Rebecca Prevots; Ettie M. Lipner; **Joshua P.
 French**. (2023) Detecting clusters of high nontuberculous mycobacteria infection risk for
-persons with cystic fibrosis – An analysis of U.S. counties. Tuberculosis. 138:102296. [https:
-//doi.org/10.1016/j.tube.2022.102296](https:
-//doi.org/10.1016/j.tube.2022.102296).
+persons with cystic fibrosis – An analysis of U.S. counties. Tuberculosis. 138:102296. [https://doi.org/10.1016/j.tube.2023.102347](https://doi.org/10.1016/j.tube.2023.102347).
 
 **French, Joshua P.**, Hall, Lauren M., Meysami, Mohammad, Weaver, Nicholas, Nguyen, Minh; Panter, Lee. (2022) A comparison of spatial scan methods for cluster detection. *Journal of Statistical Computation and Simulation*. 92(16):3343--3372. [https://doi.org/10.1080/00949655.2022.2065676](https://doi.org/10.1080/00949655.2022.2065676).
 

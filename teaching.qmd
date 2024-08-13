@@ -4,7 +4,7 @@ title: "Teaching"
 
 ## OER Materials
 
-I am currently writing *A Progressive Introduction to Linear Models*, an OER textbook related to linear regression. The current state of the manuscript can be viewed at [https://jfrench.github.io/LinearRegression](https://jfrench.github.io/LinearRegression)
+I am currently writing *A Progressive Introduction to Linear Models*, an OER textbook related to linear regression. The current state of the manuscript can be viewed at [https://jfrench.github.io/LinearRegression](https://jfrench.github.io/LinearRegression),
 
 Materials for Data Wrangling and Visualization in R are available at [https://github.com/jfrench/dwv/](https://github.com/jfrench/dwv/). YouTube playlists discussing the material are provided below:
 
@@ -18,7 +18,7 @@ Materials for Data Wrangling and Visualization in R are available at [https://gi
 - [Control statements, iteration, and apply functions in R](https://youtube.com/playlist?list=PLkrJrLs7xfbW_fp3eZBDmP10jLqhGb0HN&si=UbbF9t1BYIYruIka)
 - [Creating websites with Quarto and GitHub](https://youtube.com/playlist?list=PLkrJrLs7xfbXcEKhTCKRSr2VXH4yiBeXo&si=wdcStYTD7GhgYSDZ)
 
-In general, I record videos related to my courses and post them at my YouTube channel: [https://youtube.com/@jfrench](https://youtube.com/@jfrench)
+In general, I record videos related to my courses and post them at my YouTube channel: [https://youtube.com/@jfrench](https://youtube.com/@jfrench).
 
 ## Courses Taught
 
@@ -30,6 +30,7 @@ In general, I record videos related to my courses and post them at my YouTube ch
 - MATH 4820/5320: Introduction to Mathematical Statistics
 - MATH 4830/5830: Applied Statistics
 - MATH 4387/5387: Applied Regression Analysis
+- MATH 5320: Statistical Inference
 - MATH 6393: Introduction to Bayesian Statistics
 - MATH 6384: Spatial Data Analysis
 - MATH 7393: Bayesian Statistics
