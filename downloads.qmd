@@ -1,4 +1,6 @@
 # Colorado OER 2025 downloads
 
-[pic.png](./Downloads/pic.png)
-
+- [OER 2025 presentation](./Downloads/oer_talk.html)
+- [pic.png](./Downloads/pic.png)
+- [packages_sf.bib](./Downloads/packages_sf.bib)
+- [Example solution (qmd)](./Downloads/oer_2025_example.qmd)

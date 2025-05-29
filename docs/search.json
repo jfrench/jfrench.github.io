@@ -74,6 +74,27 @@
     "href": "downloads.html",
     "title": "Colorado OER 2025 downloads",
     "section": "",
-    "text": "Colorado OER 2025 downloads\npic.png"
+    "text": "Colorado OER 2025 downloads\n\nOER 2025 presentation\npic.png\npackages_sf.bib\nExample solution (qmd)"
+  },
+  {
+    "objectID": "downloads/oer_2025_example.html",
+    "href": "downloads/oer_2025_example.html",
+    "title": "OER 2025 example",
+    "section": "",
+    "text": "Section 1 text.\nWe want to maximize the function \\(f(x)\\)."
+  },
+  {
+    "objectID": "downloads/oer_2025_example.html#subsection",
+    "href": "downloads/oer_2025_example.html#subsection",
+    "title": "OER 2025 example",
+    "section": "Subsection",
+    "text": "Subsection\nOur first subsection.\n\n\n\n\n\n\nFigure 1: Who is this?\n\n\n\nWe can see in Figure 1 how handsome Alf is."
+  },
+  {
+    "objectID": "downloads/oer_2025_example.html#subsection-2",
+    "href": "downloads/oer_2025_example.html#subsection-2",
+    "title": "OER 2025 example",
+    "section": "Subsection 2",
+    "text": "Subsection 2\nOur second subsection.\nA simple linear regression model is often written as \\[\nY = \\beta_0 + \\beta_1 X + \\epsilon.\n\\tag{1}\\]\nWe refer to Section 1 for a great introduction.\nEquation 1 uses mathematical notation to describe a simple linear regression model.\nPebesma and Bivand (2005) wrote a nice book."
   }
 ]
