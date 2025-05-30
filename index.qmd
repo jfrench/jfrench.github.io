@@ -1,7 +1,12 @@
 ---
 title: "Joshua P. French"
 image: jfrench.jpg
-resources: cv_jfrench.pdf
+resources:
+  - cv_jfrench.pdf
+  - pic.png
+  - packages_sf.bib
+  - oer_talk.html
+  - oer_2025_example.qmd
 about: 
   id: jfrench-heading
   template: jolla
