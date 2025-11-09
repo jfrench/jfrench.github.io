@@ -4,13 +4,22 @@ title: "Research"
 
 ## Interests
   
-Spatial statistics, exceedance set identification, extreme value theory, environmental and ecological applications, public health.
+Spatial statistics, exceedance set identification, extreme value theory, environmental and ecological
+applications, public health.
 
 ## Publications
 
-**French, Joshua P**, Meysami M, Lipner EM. Prefiltered component-based greedy (PreCoG) scan method. Statistics in Medicine. 1--18. [https://doi.org/10.1002/sim.10170](https://doi.org/10.1002/sim.10170).
+Bents, S. J., Powell, C., **French, J. P.**, Prevots, D. R., and Mercaldo, R. A. (2025). Factors predicting incidence of nontuberculous mycobacteria in an era of climate change and altered ecosystems
+in the United States. Science of The Total Environment, 999: 180338. [https://doi.org/10.1016/j.scitotenv.2025.180338](https://doi.org/10.1016/j.scitotenv.2025.180338).
+
+**French, Joshua P.**, Kokoszka, Piotr S., and McGinnis, Seth. (2024). Spatiotemporal functional permutation
+tests for comparing observed climate behavior to climate model projections. *Advances in Statistical
+Climatology, Meteorology and Oceanography. 10(2): 123–41. [https://doi.org/10.5194/ascmo-10-123-2024](https://doi.org/10.5194/ascmo-10-123-2024).
+
 
 Dassanayake, Sesha, **French, Joshua P.** (2024). Detecting Disease Outbreak Regions Using Multiple Data Streams. Statistics in Biosciences. 16: 142–-164. [https://doi.org/10.1007/s12561-023-09387-5](https://doi.org/10.1007/s12561-023-09387-5).
+
+**French, Joshua P**, Meysami M, Lipner EM. Prefiltered component-based greedy (PreCoG) scan method. (2024). Statistics in Medicine. 1--18. [https://doi.org/10.1002/sim.10170](https://doi.org/10.1002/sim.10170).
 
 Lipner, Ettie M.; **French, Joshua P.**; Mercaldo, Rachel A.; Nelson, Stephen; Zelazny, Adrian M.; Marshall, Julia E.; Strong, Michael; Falkinham, Joseph O. III; Prevots, D. Rebecca. The risk of pulmonary NTM infections and water-quality constituents among persons with cystic fibrosis in the United States, 2010–2019. (2023) Environmental Epidemiology 7(5):p e266. [https://doi.org/10.1097/EE9.0000000000000266](https://doi.org/10.1097/EE9.0000000000000266).
 
