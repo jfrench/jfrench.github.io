@@ -4,18 +4,18 @@ title: "Research"
 
 ## Interests
   
-Spatial statistics, exceedance set identification, extreme value theory, environmental and ecological
-applications, public health.
+Spatial statistics, exceedance set identification, extreme value theory, environmental and ecological applications, public health.
 
 ## Publications
+
+Ettie M. Lipner, Collin Powell, Stephen Nelson, Jonathan R. Fintzi, **Joshua P. French**, Rachel A. Mercaldo, Joseph O. Falkinham III, and D. Rebecca Prevots. (2025) The risk of NTM pulmonary infection associated with trace metal exposure from public distribution system water in the United States. Journal of Exposure Science & Environmental Epidemiology. [https://doi.org/10.1038/s41370-025-00807-w](https://doi.org/10.1038/s41370-025-00807-w)
 
 Bents, S. J., Powell, C., **French, J. P.**, Prevots, D. R., and Mercaldo, R. A. (2025). Factors predicting incidence of nontuberculous mycobacteria in an era of climate change and altered ecosystems
 in the United States. Science of The Total Environment, 999: 180338. [https://doi.org/10.1016/j.scitotenv.2025.180338](https://doi.org/10.1016/j.scitotenv.2025.180338).
 
 **French, Joshua P.**, Kokoszka, Piotr S., and McGinnis, Seth. (2024). Spatiotemporal functional permutation
 tests for comparing observed climate behavior to climate model projections. *Advances in Statistical
-Climatology, Meteorology and Oceanography. 10(2): 123–41. [https://doi.org/10.5194/ascmo-10-123-2024](https://doi.org/10.5194/ascmo-10-123-2024).
-
+Climatology, Meteorology and Oceanography. 10(2): 123–41. [https://doi.org/10.5194/ascmo-10-123-2024](https://doi.org/10.5194/ascmo-10-123-2024)
 
 Dassanayake, Sesha, **French, Joshua P.** (2024). Detecting Disease Outbreak Regions Using Multiple Data Streams. Statistics in Biosciences. 16: 142–-164. [https://doi.org/10.1007/s12561-023-09387-5](https://doi.org/10.1007/s12561-023-09387-5).
 
